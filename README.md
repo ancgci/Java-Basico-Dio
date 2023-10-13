@@ -31,6 +31,7 @@ Código gerado para simular a ação de um usuário na utilização de uma TV.
 ## Material de Apoio
 
 [Informações sobre java](https://glysns.gitbook.io/java-basico)
+[Trilha java basico DIO](https://github.com/digitalinnovationone/trilha-java-basico)
 
 ## License
 
