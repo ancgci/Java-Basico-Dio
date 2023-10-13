@@ -1,18 +1,37 @@
-## Getting Started
+# SmartTV
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto didático desenvolvido na prática da utilização basica do Java com tutoria [Gleyson Sampaio](https://www.linkedin.com/in/glysns/) durante o bootCamp Santander [DIO FullStack](https://www.dio.me/)
 
-## Folder Structure
+## Introdução
 
-The workspace contains two folders by default, where:
+Código gerado para simular a ação de um usuário na utilização de uma TV.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Funções
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- mudarCanal
+- aumentarCanal
+- diminuirCanal
+- aumentarVolume
+- diminuirVolume
+- ligar
+- desligar
+ 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologias Utilizadas 
 
-## Dependency Management
+- Java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Imagens
+
+![1](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagem/1.png)
+![2](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagem/2.png)
+![3](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagem/3.png)
+![4](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagem/4.png)
+
+## Material de Apoio
+
+[Informações sobre java](https://glysns.gitbook.io/java-basico)
+
+## License
+
+Este projeto é distribuído sob a licença MIT.
