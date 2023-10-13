@@ -23,11 +23,10 @@ Código gerado para simular a ação de um usuário na utilização de uma TV.
 
 ## Imagens
 
-https://github.com/ancgci/Java-Basico-Dio/blob/main/imagens/1.png
 ![1](https://github.com/ancgci/Java-Basico-Dio/blob/main/imagens/1.png)
-![2](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagens/2.png)
-![3](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagens/3.png)
-![4](https://github.com/ancgci/ava-Basico-Dio/blob/main/imagens/4.png)
+![2](https://github.com/ancgci/Java-Basico-Dio/blob/main/imagens/2.png)
+![3](https://github.com/ancgci/Java-Basico-Dio/blob/main/imagens/3.png)
+![4](https://github.com/ancgci/Java-Basico-Dio/blob/main/imagens/4.png)
 
 ## Material de Apoio
 
